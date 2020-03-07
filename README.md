@@ -7,7 +7,7 @@
 
 ### App Walk-though
 
-<img src="file:///C:/Users/D1am0/Videos/Captures/Android%20Emulator%20-%20Pixel_API_28_5554%202020-03-07%2002-52-24.mp4" width=200><br>
+<img src="i.imgur.com/jyIRNbr" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
