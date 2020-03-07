@@ -7,7 +7,7 @@
 
 ### App Walk-though
 
-<img src="https://imgur.com/XnZmKks" width=200><br>
+<img src="https://i.imgur.com/XnZmKks.mp4" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
